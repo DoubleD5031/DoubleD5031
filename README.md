@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DoubleD5031
 - 👀 I’m interested in ... Statistics, Data Science and Machine Learning Applications
 - 🌱 I’m currently learning ...Machine Learning, Data Manipulation and Automation
-- 💞️ I’m looking to collaborate on ... Data Acquisition (Web Scraping), EDA Projects and Machine Learning 
+- 💞️ I’m looking to collaborate on ... Data Acquisition (Web Scraping, APIs), EDA Projects and Machine Learning 
 - 📫 How to reach me ... thoffman5031@gmail.com
 
 <!---
