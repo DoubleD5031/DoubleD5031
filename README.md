@@ -3,7 +3,7 @@ Tadd Hoffman = {
 📕 'Background': ['Software/Web Developer', 'Researcher', 'Health-Care'],
 🧠 'Skills': ['Creativity', 'Data Science', 'Data Transformation', 'Machine Learning'],
 💻 'Tech_Stack': ['Python', 'SQL', 'Docker', 'Git', 'Power BI', 'Spark', 'R', 'Looker', 'Flask']
-🗣️ 'Passions': ['Music', 'Innovation', 'Life-Long Learning', 'Data Story-Telling']
+🗣️ 'Passions': ['Music', 'Reading', 'Innovation', 'Life-Long Learning', 'Data Story-Telling']
 }
 
 
